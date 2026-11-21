@@ -1,0 +1,4 @@
+Customer report for CUST-123
+Account status: Active
+Open support cases: 1
+Last updated: 2026-11-18
